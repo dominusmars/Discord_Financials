@@ -3,3 +3,5 @@ dist
 .vscode
 secrets
 .env
+src/data/db/**
+src/data/db/*
